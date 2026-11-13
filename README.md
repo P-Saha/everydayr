@@ -24,7 +24,7 @@ Pick any one of these options.
 **Option 1: From R (easiest).** Open RStudio and paste this into the console. The file is saved in your current working directory.
 
 ```r
-download.file("https://raw.githubusercontent.com/P-Saha/Interactive-dplyr-Workshop-Template/main/workshop_template.qmd", "workshop_template.qmd")
+download.file("https://raw.githubusercontent.com/P-Saha/everydayr/main/workshop_template.qmd", "workshop_template.qmd")
 ```
 
 Run `getwd()` to see which folder that is.
